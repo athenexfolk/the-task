@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "timestamp": 1683065389288,
+  "index": "https://athenexfolk.github.io/the-task/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://athenexfolk.github.io/the-task/428.2acca011be39c361.js",
+        "https://athenexfolk.github.io/the-task/favicon.ico",
+        "https://athenexfolk.github.io/the-task/index.html",
+        "https://athenexfolk.github.io/the-task/main.f11af0ec52fdb6b9.js",
+        "https://athenexfolk.github.io/the-task/manifest.webmanifest",
+        "https://athenexfolk.github.io/the-task/polyfills.425fd2aea4ffdd2c.js",
+        "https://athenexfolk.github.io/the-task/runtime.c4fbbe3517f0a94a.js",
+        "https://athenexfolk.github.io/the-task/styles.b66004c98b5ac544.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://athenexfolk.github.io/the-task/assets/icons/logo-128.png",
+        "https://athenexfolk.github.io/the-task/assets/icons/logo-144.png",
+        "https://athenexfolk.github.io/the-task/assets/icons/logo-152.png",
+        "https://athenexfolk.github.io/the-task/assets/icons/logo-192.png",
+        "https://athenexfolk.github.io/the-task/assets/icons/logo-384.png",
+        "https://athenexfolk.github.io/the-task/assets/icons/logo-512.png",
+        "https://athenexfolk.github.io/the-task/assets/icons/logo-72.png",
+        "https://athenexfolk.github.io/the-task/assets/icons/logo-96.png",
+        "https://athenexfolk.github.io/the-task/assets/image/icon/bin.svg",
+        "https://athenexfolk.github.io/the-task/assets/image/logo/logo.png",
+        "https://athenexfolk.github.io/the-task/assets/image/logo/logo.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://athenexfolk.github.io/the-task/428.2acca011be39c361.js": "508dc4710675554113fa5b9a3eb246eb20aa3dac",
+    "https://athenexfolk.github.io/the-task/assets/icons/logo-128.png": "5d524854c25fc3830b2a06e799caaa0bcf49d26f",
+    "https://athenexfolk.github.io/the-task/assets/icons/logo-144.png": "e28e019ce1c277f2d9654299ac3e842e95695bae",
+    "https://athenexfolk.github.io/the-task/assets/icons/logo-152.png": "9190b3a186e173efa7de5d2bff2189c3b3cb46d3",
+    "https://athenexfolk.github.io/the-task/assets/icons/logo-192.png": "ff44ece32ce496fd28df55269e246631ff1cac66",
+    "https://athenexfolk.github.io/the-task/assets/icons/logo-384.png": "058193ea5fee36862bdf4a3e8d82163aa78cab48",
+    "https://athenexfolk.github.io/the-task/assets/icons/logo-512.png": "61a5eb53fdf30fdb79b8b723dfb30396012ea2e0",
+    "https://athenexfolk.github.io/the-task/assets/icons/logo-72.png": "89f10156fde648567c698c54e26dca6c2ace4e5a",
+    "https://athenexfolk.github.io/the-task/assets/icons/logo-96.png": "fe3ce01cc8be9e8c48d66cfbc2306e9a983b7a38",
+    "https://athenexfolk.github.io/the-task/assets/image/icon/bin.svg": "1b7800652f302318150ebc8e8601db4bebec0fda",
+    "https://athenexfolk.github.io/the-task/assets/image/logo/logo.png": "59a47acde8a4406ea68432546fabf55f35ec635a",
+    "https://athenexfolk.github.io/the-task/assets/image/logo/logo.svg": "d0e3101665196e68145b62a041ebf6b9eed5ee32",
+    "https://athenexfolk.github.io/the-task/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://athenexfolk.github.io/the-task/index.html": "25fe5e22f8b0ed8bf52df81eaffd5021f51375b0",
+    "https://athenexfolk.github.io/the-task/main.f11af0ec52fdb6b9.js": "841c514ff8eac05d89e33e4c03681ebb77ad5625",
+    "https://athenexfolk.github.io/the-task/manifest.webmanifest": "a066510d568c2bc26b59c5e7c7456bc51e616d0a",
+    "https://athenexfolk.github.io/the-task/polyfills.425fd2aea4ffdd2c.js": "b447ff4c0a9502f1f2783d3b9a62297475d81c59",
+    "https://athenexfolk.github.io/the-task/runtime.c4fbbe3517f0a94a.js": "10bde9c5636d2a27c7c8252ab521d4cb97a29de7",
+    "https://athenexfolk.github.io/the-task/styles.b66004c98b5ac544.css": "6564aca9c7db603c3145101e46cb9baf5d59cc9d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
