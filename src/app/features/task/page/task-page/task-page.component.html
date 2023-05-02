@@ -17,7 +17,7 @@
       <li *ngFor="let task of taskList; let i = index">
         <div class="p-4 my-4 rounded bg-amber-200 relative">
           <div class="absolute top-4 right-2.5 h-4 w-4 cursor-pointer hover:scale-110" (click)="removeTask(i)">
-            <img ngSrc="assets/image/icon/bin.svg" alt="bin" fill>
+            <img ngSrc="assets/image/icon/bin.png" alt="bin" fill>
           </div>
           <h4 class="text-xl font-bold mb-2">{{task.name}}</h4>
           <p>{{task.description}}</p>
